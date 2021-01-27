@@ -9,7 +9,7 @@ On Heroku: https://jpa03-kaiwen-li.herokuapp.com/
 
 On Codecov: https://codecov.io/gh/ucsb-cs156-w21/jpa03-kaiwenli1
 
-[![codecov](https://codecov.io/gh/ucsb-cs156-w21/jpa03-kaiwen-li/branch/main/graph/badge.svg)](https://codecov.io/gh/ucsb-cs156-w21/jpa03-kaiwen-li)
+[![codecov](https://codecov.io/gh/ucsb-cs156-w21/jpa03-kaiwenli1/branch/main/graph/badge.svg)](https://codecov.io/gh/ucsb-cs156-w21/jpa03-kaiwenli1)
 
 
 ## Integrations
